@@ -78,9 +78,6 @@ const Hero = () => {
           <div className="neon-avatar-box">
             <img src={profileImg} alt="Yeasin Arafat" className="profile-img" />
           </div>
-          <label htmlFor="gallery-upload" className="gallery-upload-btn">
-            Change Photo from Gallery 📁
-          </label>
           <input 
             id="gallery-upload" 
             type="file" 
