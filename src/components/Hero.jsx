@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import myPhoto from '../assets/profile.png'; // ডিফল্ট লোকাল এসেটস ফটো
+import myPhoto from '../assets/profile.jpg'; // ডিফল্ট লোকাল এসেটস ফটো
 
 const Hero = () => {
   const titles = ["React Developer", "Frontend Enthusiast", "UI/UX Problem Solver"];
