@@ -22,12 +22,13 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: "Cyberpunk Developer Portfolio",
-      description: "Personal responsive portfolio website featuring interactive real-time photo customization, typing effects, and neon CSS glow.",
-      techStack: ["React", "Vanilla CSS", "Vite"],
-      githubLink: "https://github.com/yourusername/portfolio",
-      liveLink: "#"
+      title: "Tic Tac Toe Game",
+      description: "A modern web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript.Smooth gameplay mechanics, and full responsive.",
+      techStack: ["HTML", "Vanilla CSS", "JavaScript"],
+      githubLink: "https://github.com/yeasin-arafat40/Tik-Tac-Toe",
+      liveLink: "https://tic-toc-toe-game-y.netlify.app"
     }
+    
   ];
 
   return (
